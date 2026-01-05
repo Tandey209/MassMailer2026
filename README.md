@@ -35,10 +35,14 @@
 ---
 
 ## 📸 Screenshots & Interface
+![Screenshot 1](https://i.ibb.co/Kcsfv2Rc/Screenshot-2026-01-05-at-11-18-52.png)
+![Screenshot 2](https://i.ibb.co/8LX6JDZX/Screenshot-2026-01-05-at-11-19-02.png)
+![Screenshot 3](https://i.ibb.co/PZ1Xh2w1/Screenshot-2026-01-05-at-11-19-15.png)
+![Screenshot 4](https://i.ibb.co/NnFSsLYP/Screenshot-2026-01-05-at-11-19-09.png)
 
 ### 1. SMTP Server Configuration
 Manage your mailing infrastructure. Add, remove, and test multiple SMTP connections easily.
-![Mass Mailer SMTP Configuration - Bulk Email Server Setup](https://i.ibb.co/PZ1Xh2w1/Screenshot-2026-01-05-at-11-19-15.png)
+
 
 ### 2. Email Content Editor
 Compose HTML emails and manage your bulk recipient lists (supports CSV style copy-paste).
