@@ -27,7 +27,7 @@
 | **Add SMTP Servers** | **Add E-Mail Adresses** |
 |:---:|:---:|
 | ![Bulk Email Sending Progress - Real Time Logs](https://i.ibb.co/Kcsfv2Rc/Screenshot-2026-01-05-at-11-18-52.png) | ![Email Randomizer - Anti-Spam Configuration](https://i.ibb.co/8LX6JDZX/Screenshot-2026-01-05-at-11-19-02.png) |
-| *Add, remove, and test multiple SMTP connections* | *Add your email lists* |
+| *Add, remove, and test multiple SMTP connections* | *Add your email lists and your html email* |
 
 | **Send Campaigns** | **Randomizer Settings** |
 |:---:|:---:|
