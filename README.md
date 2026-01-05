@@ -17,6 +17,20 @@
 
 </div>
 
+## 📸 Screenshots & Interface
+
+| **Sending Dashboard** | **Randomizer Settings** |
+|:---:|:---:|
+| ![Bulk Email Sending Progress - Real Time Logs](https://i.ibb.co/Kcsfv2Rc/Screenshot-2026-01-05-at-11-18-52.png) | ![Email Randomizer - Anti-Spam Configuration](https://i.ibb.co/8LX6JDZX/Screenshot-2026-01-05-at-11-19-02.png) |
+| *Live campaign execution with real-time logs* | *Anti-spam settings and subject shuffling* |
+
+| **SMTP Configuration** | **Email Editor** |
+|:---:|:---:|
+| ![Mass Mailer SMTP Configuration - Bulk Email Server Setup](https://i.ibb.co/PZ1Xh2w1/Screenshot-2026-01-05-at-11-19-15.png) | ![HTML Email Editor - Mass Mailer Content Management](https://i.ibb.co/NnFSsLYP/Screenshot-2026-01-05-at-11-19-09.png) |
+| *Add, remove, and test multiple SMTP connections* | *Compose HTML emails and manage recipient lists* |
+
+---
+
 ---
 
 **Mass Mailer Pro** is a powerful, open-source **bulk email sender** and **SMTP rotation tool** designed for high-volume email marketing campaigns, newsletters, and cold outreach. Built with modern web technologies, this lightweight **mass mailing software** allows you to send unlimited emails using multiple SMTP servers to ensure high deliverability and avoid spam folders.
@@ -46,20 +60,6 @@
 *   **Live Progress Bar:** Track sent, failed, and pending emails in real-time.
 *   **Detailed Logs:** View success/error logs with timestamps for debugging connection issues.
 *   **Browser-Based:** Runs entirely in your browser using local storage—no database or complex backend required.
-
----
-
-## 📸 Screenshots & Interface
-
-| **Sending Dashboard** | **Randomizer Settings** |
-|:---:|:---:|
-| ![Bulk Email Sending Progress - Real Time Logs](https://i.ibb.co/Kcsfv2Rc/Screenshot-2026-01-05-at-11-18-52.png) | ![Email Randomizer - Anti-Spam Configuration](https://i.ibb.co/8LX6JDZX/Screenshot-2026-01-05-at-11-19-02.png) |
-| *Live campaign execution with real-time logs* | *Anti-spam settings and subject shuffling* |
-
-| **SMTP Configuration** | **Email Editor** |
-|:---:|:---:|
-| ![Mass Mailer SMTP Configuration - Bulk Email Server Setup](https://i.ibb.co/PZ1Xh2w1/Screenshot-2026-01-05-at-11-19-15.png) | ![HTML Email Editor - Mass Mailer Content Management](https://i.ibb.co/NnFSsLYP/Screenshot-2026-01-05-at-11-19-09.png) |
-| *Add, remove, and test multiple SMTP connections* | *Compose HTML emails and manage recipient lists* |
 
 ---
 
