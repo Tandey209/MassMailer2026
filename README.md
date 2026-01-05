@@ -43,18 +43,15 @@
 ### 1. SMTP Server Configuration
 Manage your mailing infrastructure. Add, remove, and test multiple SMTP connections easily.
 
-
 ### 2. Email Content Editor
 Compose HTML emails and manage your bulk recipient lists (supports CSV style copy-paste).
-![HTML Email Editor - Mass Mailer Content Management](https://i.ibb.co/NnFSsLYP/Screenshot-2026-01-05-at-11-19-09.png)
 
 ### 3. Campaign Randomizer
 Configure anti-spam settings, subject line shuffling, and sending intervals.
-![Email Randomizer - Anti-Spam Configuration](https://i.ibb.co/8LX6JDZX/Screenshot-2026-01-05-at-11-19-02.png)
 
 ### 4. Sending Dashboard
 Watch your campaign execution with live logs and progress tracking.
-![Bulk Email Sending Progress - Real Time Logs](https://i.ibb.co/Kcsfv2Rc/Screenshot-2026-01-05-at-11-18-52.png)
+
 
 ---
 
